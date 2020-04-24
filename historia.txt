@@ -1,2 +1,4 @@
 Historia de mi primer repositorio en git 
 platzi-sergio
+Junto con esto vamos a hacer el segundo commit
+hoy en dia tengo 35 años con el sueño de trabajar en programacion
