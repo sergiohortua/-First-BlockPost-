@@ -4,4 +4,5 @@ Junto con esto vamos a hacer el segundo commit
 hoy en dia tengo 35 años con el sueño de trabajar en programacion
 Si aplico el comando git reset #id del commit --hard, se borra toda la informacion desde
 donde quiera.
+linea de para cuarto commit y prueba de --soft
 
