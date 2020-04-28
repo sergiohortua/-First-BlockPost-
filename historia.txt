@@ -5,4 +5,9 @@ hoy en dia tengo 35 años con el sueño de trabajar en programacion
 Si aplico el comando git reset #id del commit --hard, se borra toda la informacion desde
 donde quiera.
 linea de para cuarto commit y prueba de --soft
+*agregamos esta linea para ver como podemos volver en el tiempo y actualizar 
+un archivo existiendo dos proyectos o mas. con checkout y la direccion del primer commit
+mas la direccion del archivo podemos ver el archivo en su estado inicial y con 
+git checkout + master + nombre del archivo volvemos a la ultima version master del archivo.
+
 
