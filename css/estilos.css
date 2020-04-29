@@ -28,3 +28,10 @@ h1{
     width: 300px;
     border: 1px solid blueviolet;
 }
+
+.p2{
+    width: 300px;
+    color: rgb(238, 14, 14);
+    text-align: left;
+    margin-left: 40%;
+}
