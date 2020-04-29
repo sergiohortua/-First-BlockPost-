@@ -12,3 +12,19 @@ h5{
 h1{
     color: magenta;
 }
+
+.P1{
+    background-color: red;
+    margin-left: 40%;
+    width: 300px;
+    border-radius: 20px;
+    
+    
+}
+
+.P1 :hover{
+    background-color: blueviolet;
+    border-radius: 20px;
+    width: 300px;
+    border: 1px solid blueviolet;
+}
